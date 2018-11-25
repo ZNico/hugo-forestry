@@ -1,0 +1,25 @@
+---
+label: Front Matter News
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Insert Title
+- type: datetime
+  name: date
+  label: Date
+  description: Insert Date
+- type: datetime
+  description: select publishdate
+  label: publishdate
+  name: publishdate
+- type: text
+  name: category
+  label: Category
+  description: desc, tags
+- type: textarea
+  name: headline
+  label: Headline
+  description: enter Headline
