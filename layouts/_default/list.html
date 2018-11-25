@@ -2,7 +2,7 @@
   <section id="news">
     <!-- {{ range where .Site.Pages "Params.category" "news" }} -->
     <!-- {{ range where .Site.Pages "content" "news" }} -->
-    {{ .GetPage news }}
+    {{ .GetPage "news" }}
     <article>
             <h3><a href='{{.Permalink}}'>{{.Title}}</a> – </h3>
             <p>{{ .Params.headline }} <a href='{{.Permalink}}'>[mehr erfahren]</a></p>
