@@ -1,7 +1,6 @@
 +++
 category = "news"
 date = "2018-11-25T20:32:21+00:00"
-draft = true
 headline = "Hier wurde ein neuer Beitrag erstellt"
 publishdate = "2018-11-25T16:00:00+00:00"
 title = "Neuer Beitrag"
