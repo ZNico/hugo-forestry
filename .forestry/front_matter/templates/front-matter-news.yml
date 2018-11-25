@@ -23,3 +23,5 @@ fields:
   name: headline
   label: Headline
   description: enter Headline
+pages:
+- content/news/neuer-beitrag.md
