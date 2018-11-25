@@ -1,0 +1,25 @@
+<header>
+        <h1><a href='{{ .Site.BaseURL }}'>{{ .Site.Title }}</a></h1>
+        <nav>
+            <input type="checkbox" id="button" />
+            <label for="button" onclick></label>
+
+            <button class="hamburger hamburger--collapse" type="button">
+                <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                </span>
+            </button>
+            <ul>
+                <li class='current-menu-item'><a href='{{ .Site.BaseURL }}'>Start</a></li>
+                <li><a href='{{ .Site.BaseURL }}#leistungen'>Leistungen</a></li>
+                <li><a href='{{ .Site.BaseURL }}#news'>Blog</a></li>
+                <li><a href='{{ .Site.BaseURL }}#referenzen'>Über mich</a></li>
+                <li><a href='{{ .Site.BaseURL }}kontakt'>Kontakt</a></li>
+            </ul>
+        </nav>
+
+        <section id='hero'>
+            <h2>Glänzende Ideen für leuchtende Augen</h2>
+            <a href='#'>Angebot einholen</a>
+        </section>
+    </header>
