@@ -24,5 +24,6 @@ fields:
   label: Headline
   description: enter Headline
 pages:
-- content/news/it-works.md
 - content/news/neuer-beitrag.md
+- content/news/it-works.md
+- content/news/test.md
