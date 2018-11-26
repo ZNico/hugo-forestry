@@ -1,6 +1,6 @@
 <section id='news'>
     <h2>News</h2>
-    {{ range .Pages}}
+    {{ range where .Pages "Section" "==" "news"}}
     <article>
             <h3><a href='{{.Permalink}}'>{{.Title}}</a> – </h3>
             <p>{{ .Params.headline }} <a href='{{.Permalink}}'>[mehr erfahren]</a></p>
