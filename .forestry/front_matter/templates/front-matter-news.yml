@@ -16,8 +16,8 @@ fields:
   label: publishdate
   name: publishdate
 - type: tag_list
-  name: tag
-  label: tag
+  name: tags
+  label: tags
   description: choose tags
 - type: textarea
   name: headline
