@@ -15,10 +15,10 @@ fields:
   description: select publishdate
   label: publishdate
   name: publishdate
-- type: tag_list
+- type: text
   name: category
   label: Category
-  description: Tags/Category
+  description: desc, tags
 - type: textarea
   name: headline
   label: Headline
