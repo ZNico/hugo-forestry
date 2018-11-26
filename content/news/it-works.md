@@ -1,10 +1,10 @@
 +++
-categories = ["works", "bla", "blub"]
+categories = ["works"]
 category = "news"
 date = "2018-11-25T20:45:45+00:00"
 headline = "Finnaly it runs!"
 publishdate = "2018-11-25T18:00:00+00:00"
-tags = ["works"]
+tags = ["works", "bla", "blub"]
 title = "It WORKS!!!"
 
 +++
