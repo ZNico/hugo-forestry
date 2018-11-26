@@ -11,14 +11,14 @@ fields:
   name: date
   label: Date
   description: Insert Date
-- type: datetime
-  description: select publishdate
-  label: publishdate
-  name: publishdate
 - type: textarea
   name: headline
   label: Headline
   description: enter Headline
+- type: datetime
+  description: select publishdate
+  label: publishdate
+  name: publishdate
 - type: tag_list
   name: category
   label: Category
