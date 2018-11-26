@@ -4,8 +4,6 @@ date: 2017-03-23 00:00:00 +0000
 publishdate: 2017-03-24 00:00:00 +0000
 category:
 - news
-- award
-- cat
 headline: 'Tolle News: Ich bin bei der Endauswahl 2018!'
 
 ---
