@@ -15,14 +15,14 @@ fields:
   description: select publishdate
   label: publishdate
   name: publishdate
-- type: text
-  name: category
-  label: Category
-  description: desc, tags
 - type: textarea
   name: headline
   label: Headline
   description: enter Headline
+- type: tag_list
+  name: category
+  label: Category
+  description: Tags/Category
 pages:
 - content/news/it-works.md
 - content/news/neuer-beitrag.md
