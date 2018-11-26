@@ -15,14 +15,14 @@ fields:
   name: headline
   label: Headline
   description: enter Headline
-- type: datetime
-  description: select publishdate
-  label: publishdate
-  name: publishdate
 - type: tag_list
   name: category
   label: Category
   description: Tags/Category
+- type: datetime
+  description: select publishdate
+  label: publishdate
+  name: publishdate
 pages:
 - content/news/neuer-beitrag.md
 - content/news/it-works.md
