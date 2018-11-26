@@ -1,8 +1,10 @@
 +++
+categories = ["works"]
 category = "news"
 date = "2018-11-25T20:45:45+00:00"
 headline = "Finnaly it runs!"
 publishdate = "2018-11-25T18:00:00+00:00"
+tags = ["works"]
 title = "It WORKS!!!"
 
 +++
