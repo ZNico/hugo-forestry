@@ -29,5 +29,6 @@ fields:
   description: choose tags
 pages:
 - content/news/neuer-beitrag.md
+- content/news/testatxonomy.md
 - content/news/test.md
 - content/news/it-works.md
