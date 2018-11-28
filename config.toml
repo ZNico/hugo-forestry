@@ -5,3 +5,7 @@ title = "Alex Mayer"
 [taxonomies]
   category = "categories"
   tag = "tags"
+  title = "titles"
+  headline = "headlines"
+  date = "dates"
+  publishdate = "publishdates"
