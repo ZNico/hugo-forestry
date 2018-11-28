@@ -20,6 +20,10 @@ fields:
   label: Headline
   description: enter Headline
 - type: tag_list
+  name: authors
+  label: authors
+  description: Insert author here
+- type: tag_list
   name: categories
   label: categories
   description: Choose categories
